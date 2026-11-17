@@ -3,7 +3,7 @@
 
 A dark-themed mobile app design for browsing games, viewing game details, and tracking achievements. Designed in Figma as my first UI/UX project.
 
-🔗 **Prototype:** [https://www.figma.com/design/6EVJTAlgNdcnj614BPwGyD/project1?node-id=30-124&t=amon5YKLzQJNMPOk-1]
+🔗 **Prototype:** [https://www.figma.com/design/6EVJTAlgNdcnj614BPwGyD/project1?node-id=10-2&t=amon5YKLzQJNMPOk-1]
 
 > Game artwork is used as a placeholder for a student project. All rights belong to their owners.
 
