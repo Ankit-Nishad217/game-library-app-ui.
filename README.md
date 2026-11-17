@@ -1,4 +1,3 @@
-# game-library-app-ui.
 # Game Library App UI
 
 A dark-themed mobile app design for browsing games, viewing game details, and tracking achievements. Designed in Figma as my first UI/UX project.
@@ -19,19 +18,19 @@ Design a clean mobile app where players can browse their games, open a game's de
 ![Library](library.png)
 
 ### Valorant
-![Valorant details](game%20detail1.png)
+![Valorant details](gamedetail1.png)
 ![Valorant achievements](achievement1.png)
 
 ### Pubg
-![Pubg details](game%20detail2.png)
+![Pubg details](gamedetail2.png)
 ![Pubg achievements](achievement2.png)
 
 ### CS2
-![CS2 details](game%20detail3.png)
+![CS2 details](gamedetail3.png)
 ![CS2 achievements](achievement3.png)
 
 ### Marvel Rivals
-![Marvel Rivals details](game%20detail4.png)
+![Marvel Rivals details](gamedetail4.png)
 ![Marvel Rivals achievements](achievement4.png)
 
 ## Design Choices
